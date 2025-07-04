@@ -8,3 +8,7 @@ Source Code:
 Output:
 
 ![Untitled design](https://github.com/user-attachments/assets/feffd7fa-45b1-4d98-9a9f-5a64bd6338ec)
+
+On ByteXl Platform
+
+![Screenshot 2025-07-04 140938](https://github.com/user-attachments/assets/73b635ad-20b0-4d80-a37e-a8df22c3975b)
